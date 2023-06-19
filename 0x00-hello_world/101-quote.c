@@ -1,10 +1,9 @@
 #include <stdio.h>
-#include <unistd.h>
 
 /**
  *main - prints "line that prints
- * new line"
  *Retun: Always 1.
+ *
  */
 
 int main(void)
