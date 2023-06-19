@@ -2,7 +2,8 @@
 #include <unistd.h>
 
 /**
- *main - "line that prints new line"
+ *main - prints "line that prints
+ * new line"
  *Retun: Always 1.
  */
 
