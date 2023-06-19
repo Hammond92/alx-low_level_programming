@@ -4,7 +4,7 @@
  *a piece of art," followed newline
  * Return: Always 0.
  *
- * */
+ */
 
 int main(void)
 {
