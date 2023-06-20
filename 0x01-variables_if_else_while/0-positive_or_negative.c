@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Determine if a number is positive, negative or zero
+ * main - 0-positive_or_negative
  *
  * Return: Always 0.
  */
