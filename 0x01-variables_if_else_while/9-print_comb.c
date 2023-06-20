@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - posible combination
+ *
  * Return: Always 0.
  */
 
