@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - prints single digit numbers 
+ * main - single digit numbers
  *
- * Return: Always 0.
  */
 
 int main(void)
+	
 {
 	int c;
 
