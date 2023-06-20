@@ -5,7 +5,7 @@
 /**
  * main - Alphabet in lowercase
  *
- * Retuan: Always 0.
+ * Return: Always 0.
  */
 
 int main(void)
