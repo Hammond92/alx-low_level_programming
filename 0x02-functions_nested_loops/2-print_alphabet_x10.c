@@ -18,9 +18,8 @@ void print_alphabet_x10(void)
 	{
          _putchar(letter);
 	}
-
 	_putchar('\n');
-	letter++;
+	}
 
 	return (0);
 }
