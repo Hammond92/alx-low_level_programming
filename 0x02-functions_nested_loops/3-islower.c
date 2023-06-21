@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * __islower - check for lowercase character
+ * _islower - check for lowercase character
  *
  * Return: 1 for lowercase character or 0 for anything else
  */
 
-int _isalpha(void)
+int _islower(void)
 
 {
 
