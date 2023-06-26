@@ -2,7 +2,7 @@
 
 /**
  * _strlen - returns the length of a string
- * @str: The string to print
+ * @s: The string to print
  * Return: void
  */
 
