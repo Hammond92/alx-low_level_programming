@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * leet - encode into 1337 speck
+ * leet - encode into 1337speck
  * @n: input value
  * Return: n value
  */
