@@ -17,6 +17,7 @@ char *string_toupper(char *n)
 	while (n[i] != '\0')
 	{
 		if (n[i] != '\0')
+
 			n[i] = n[i] - 32;
 		i++;
 	}
