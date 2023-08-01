@@ -1,3 +1,4 @@
+#include <stddef.h>
 #include "lists.h"
 
 /**
@@ -8,7 +9,7 @@
 
 int pop_listint(listint_t **head)
 {
-	listint_*temp = (*head)->next;
+	listint_t *temp = (*head)->next;
 	int num = (*head)->n;
 	if (!head || !*head)
 		return (0);
