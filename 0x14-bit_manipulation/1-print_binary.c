@@ -10,7 +10,7 @@ void print_binary(unsigned long int n)
 
 {
 
-	int a count = 0;
+	int a, count = 0;
 
 	unsigned long int current;
 
